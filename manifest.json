@@ -2,7 +2,7 @@
   "name": "EmulatorJS",
   "short_name": "emulatorjs",
   "display": "minimal-ui",
-  "start_url": "/",
+  "start_url": "/emulatorjs",
   "theme_color": "#673ab6",
   "background_color": "#111111",
   "icons": [
